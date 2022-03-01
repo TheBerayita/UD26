@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(255, 249, 239);
+}
+
+h1{
+    background-color: rgb(255, 219, 143);
+    color: rgb(107, 105, 105);
+}
+
+h2{
+    color: rgb(111, 157, 190);
+}
+
+.a1{
+    color: rgb(103, 128, 150);
+}
+
+.instruccion{
+    color: rgb(103, 128, 144);
+    font-weight: bold;
+}
+
+.lista{
+    margin-left: 2%;
+}

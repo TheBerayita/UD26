@@ -1,0 +1,10 @@
+body {font-family:'Lucida Sans Unicode'; width:900px; align-self: center;text-align: justify;}
+h1 {text-align:center;letter-spacing:0.25em; word-spacing:0.40em;width: 100%;margin-left: 15%;}
+.t1{color:mediumseagreen;text-align: center;}
+.t2{color:darkorange;}
+ul {text-align:left;}
+div {padding-left: 50px; padding-right:50px;}
+.selector{float: left;width: 100px;}
+.texto{margin-left: 23%;width: 85%;border: 1px solid black;}
+h2 {color:olivedrab; border-bottom: 1px solid black;}
+h3 {color:orange;}
